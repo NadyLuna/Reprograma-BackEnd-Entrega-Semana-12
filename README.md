@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="216">
+  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="316">
   <br>
     <br>
     <p align="center">Aula 12 - Banco de Dados<p>
@@ -30,6 +30,14 @@
  - [x] Columm family stores - Dados orientados a coluna organizados em grupos de colunas e armazenados.
 
  ## Banco de DADOS
+
+ <h1 align="center">
+  <br>
+  <img src="img/mongoDB.png" alt="MongoDB" width="316">
+  <br>
+    <br>
+    <p align="center">Aula 12 - Banco de Dados<p>
+</h1>
  ![mongoDB](./img/mongoDB.png)
 
  Um dos líderes de Banco de Dados, o MongoDB é orientado a documento, substitue o conceito de "ilha" como em banco de dados relacionais por um modelo mais flexível, o "documento".  
@@ -44,4 +52,4 @@
 
   _Importante_- Alguns tipos de Joins e transações multi-linha nãoe stão presentes no MongoDB, características de Banco de Dados Relacionais.
 
-  
+
