@@ -33,7 +33,7 @@
 
  <h1 align="center">
   <br>
-  <img src="img/mongoDB.png" alt="MongoDB" width="316">
+  <img src="img/mongoDB.png" alt="MongoDB" width="450">
   <br>
     <br>
 </h1>
