@@ -36,10 +36,8 @@
   <img src="img/mongoDB.png" alt="MongoDB" width="316">
   <br>
     <br>
-    <p align="center">Aula 12 - Banco de Dados<p>
 </h1>
- ![mongoDB](./img/mongoDB.png)
-
+ 
  Um dos líderes de Banco de Dados, o MongoDB é orientado a documento, substitue o conceito de "ilha" como em banco de dados relacionais por um modelo mais flexível, o "documento".  
  Foi desenvolvido em linguagem ``C++`` e é um opens source.
 
