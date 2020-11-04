@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="316">
+  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="500">
   <br>
     <br>
     <p align="center">Aula 12 - Banco de Dados<p>
@@ -35,7 +35,7 @@
 
  <h1 align="center">
   <br>
-  <img src="img/mongoDB.png" alt="MongoDB" width="450">
+  <img src="img/mongoDB.png" alt="MongoDB" width="500">
   <br>
     <br>
 </h1>
