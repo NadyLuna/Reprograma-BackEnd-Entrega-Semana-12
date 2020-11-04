@@ -56,7 +56,7 @@
   - Big Data;
   - Gestão de conteúdo;
   - Infraestrutura Social e Mobile
-  - Gestão de daods de usuário;
+  - Gestão de dados de usuário;
   - Data hub.
 
 
