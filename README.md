@@ -24,10 +24,12 @@
  Os bancos de dados não relacionais oferecem uma arquitetura muito mais escalável e eficiente que os banco de dados relacionais. e facilitam consultas noSQL de dados semi-estruturados ou não estruturados.
  ### Categorias de banco de Dados NoSQL  
  
- - [x] Graph database - Geralmente aderente a Cenários de rede social online;
- - [x] Document database - Permite o armazenamento de milhões de documentos. _(MongoDB)_
- - [x] Key-values stores - Dados armazenados no formato de chave e valor e os valores são identificados pelas chaves.
- - [x] Columm family stores - Dados orientados a coluna organizados em grupos de colunas e armazenados.
+ - [x] Graph database - Geralmente aderente a Cenários de rede social online; _(Neo4J)_
+ - [x] Document database - Permite o armazenamento de milhões de documentos; _(MongoDB)_
+ - [x] Key-values stores - Dados armazenados no formato de chave e valor e os valores são identificados pelas chaves; _(Oracle NoSQL)_
+ - [x] Columm family stores - Dados orientados a coluna organizados em grupos de colunas e armazenados. _(Cassandra)_
+
+ lista completa dos Bancos de Dados: ``http://nosql-database.org``
 
  ## Banco de DADOS
 
@@ -43,11 +45,20 @@
 
  ### Características:
 
- - Indexação: Suporta índices secundários, permitindo a construção de queries mais velozes;
+  - Indexação: Suporta índices secundários, permitindo a construção de queries mais velozes;
   - agregação: Permite a construção de agregações complexas de dados otimizando o desempenho;
   - tipos de dados especiais: Suporta coleções time-to-live para dados que expiram em um determinado tempo, como sessões por exemplo;
   - Armazenamento: Suporta armazenamento de grande quantidades de dados.
 
-  _Importante_- Alguns tipos de Joins e transações multi-linha nãoe stão presentes no MongoDB, características de Banco de Dados Relacionais.
+  _Importante_- Alguns tipos de Joins e transações multi-linha não estão presentes no MongoDB, características de Banco de Dados Relacionais.
+
+  ### Onde usar o MongoDB
+  - Big Data;
+  - Gestão de conteúdo;
+  - Infraestrutura Social e Mobile
+  - Gestão de daods de usuário;
+  - Data hub.
+
+
 
 
