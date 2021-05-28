@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="200">
+  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="300">
   <br>
     <br>
     <p align="center">Aula 12 - Banco de Dados<p>
