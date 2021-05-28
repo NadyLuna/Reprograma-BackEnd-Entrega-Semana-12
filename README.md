@@ -16,12 +16,12 @@
    2- Conjunto de dados semi-estruturados: Dados que não possuem um modelo formal organizado. Ex.: arquivo xml.
 
    3- Conjunto de dados não estruturados: Arquivos que não possuem dados organizados, podem ser processados em tempo real. São estruturados quando do processamento/definição dos esquemas. Ex.: log de servidores, comentários de redes sociais, arquivos de texto.
+   
+   #### Visto os tipos de dados mais utilizado, vamos aprofundar um pouco mais sobre o banco de dados não Relacional ou NoSQL.
 
 ## *Banco de dados NoSQL*
-
- Visto os tipos de dados mais usados, vamos falar sobre o banco de dados não Relacional ou NoSQL.
-
- Os bancos de dados não relacionais oferecem uma arquitetura muito mais escalável e eficiente que os banco de dados relacionais. e facilitam consultas noSQL de dados semi-estruturados ou não estruturados.
+ 
+ Os bancos de dados não relacionais oferecem uma arquitetura muito mais escalável e eficiente que os banco de dados relacionais e facilitam consultas noSQL de dados semi-estruturados ou não estruturados.
  ### Categorias de banco de Dados NoSQL  
  
  - [x] Graph database - Geralmente aderente a Cenários de rede social online; _(Ex.: Neo4J)_
@@ -31,11 +31,11 @@
 
  lista completa dos Bancos de Dados: ``http://nosql-database.org``
 
- ## Banco de DADOS
-
+ ## Exemplo de  Banco de Dados baseado em Documents Database
+ 
  <h1 align="center">
   <br>
-  <img src="img/mongoDB.png" alt="MongoDB" width="500">
+  <img src="img/mongoDB.png" alt="MongoDB" width="300">
   <br>
     <br>
 </h1>
