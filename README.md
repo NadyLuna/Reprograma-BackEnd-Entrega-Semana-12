@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="500">
+  <img src="img/database.1.png" alt="mulher atualizando banco de dados" width="200">
   <br>
     <br>
     <p align="center">Aula 12 - Banco de Dados<p>
@@ -24,10 +24,10 @@
  Os bancos de dados não relacionais oferecem uma arquitetura muito mais escalável e eficiente que os banco de dados relacionais. e facilitam consultas noSQL de dados semi-estruturados ou não estruturados.
  ### Categorias de banco de Dados NoSQL  
  
- - [x] Graph database - Geralmente aderente a Cenários de rede social online; _(Neo4J)_
- - [x] Document database - Permite o armazenamento de milhões de documentos; _(MongoDB)_
- - [x] Key-values stores - Dados armazenados no formato de chave e valor e os valores são identificados pelas chaves; _(Oracle NoSQL)_
- - [x] Columm family stores - Dados orientados a coluna organizados em grupos de colunas e armazenados. _(Cassandra)_
+ - [x] Graph database - Geralmente aderente a Cenários de rede social online; _(Ex.: Neo4J)_
+ - [x] Document database - Permite o armazenamento de milhões de documentos; _(Ex.:MongoDB)_
+ - [x] Key-values stores - Dados armazenados no formato de chave e valor e os valores são identificados pelas chaves; _(Ex.:Oracle NoSQL)_
+ - [x] Columm family stores - Dados orientados a coluna organizados em grupos de colunas e armazenados. _(Ex.:Cassandra)_
 
  lista completa dos Bancos de Dados: ``http://nosql-database.org``
 
@@ -57,7 +57,7 @@
   - Gestão de conteúdo;
   - Infraestrutura Social e Mobile
   - Gestão de dados de usuário;
-  - Data hub.
+  - Data Hub.
 
 
 
