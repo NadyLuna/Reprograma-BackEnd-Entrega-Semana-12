@@ -21,7 +21,7 @@
 
 ## *Banco de dados NoSQL*
  
- Os bancos de dados não relacionais oferecem uma arquitetura muito mais escalável e eficiente que os banco de dados relacionais e facilitam consultas noSQL de dados semi-estruturados ou não estruturados.
+ Os bancos de dados não relacionais ou NoSQL oferecem uma arquitetura muito mais escalável e eficiente que os banco de dados relacionais e facilitam consultas noSQL de dados semi-estruturados ou não estruturados.
  ### Categorias de banco de Dados NoSQL  
  
  - [x] Graph database - Geralmente aderente a Cenários de rede social online; _(Ex.: Neo4J)_
@@ -31,7 +31,13 @@
 
  lista completa dos Bancos de Dados: ``http://nosql-database.org``
 
- ## Exemplo de  Banco de Dados baseado em Documents Database
+ ### Banco de Dados baseado em Document Database
+ 
+   Esta categoria de banco permite o armazenamento de milhões de documentos. Ele consegue fazer pesquisa através de campos específicos no documento.    
+   
+   ###### Ex.: Currículo (como um documento).     
+   É possível pesquisar potenciais candidatos a uma vaga usando um campo específico, como telefone ou conhecimento em uma tecnologia.
+      
  
  <h1 align="center">
   <br>
@@ -43,7 +49,7 @@
  Um dos líderes de Banco de Dados, o MongoDB é orientado a documento, substitue o conceito de "ilha" como em banco de dados relacionais por um modelo mais flexível, o "documento".  
  Foi desenvolvido em linguagem ``C++`` e é um opens source.
 
- ### Características:
+ #### Características:
 
   - Indexação: Suporta índices secundários, permitindo a construção de queries mais velozes;
   - agregação: Permite a construção de agregações complexas de dados otimizando o desempenho;
@@ -52,7 +58,7 @@
 
   _Importante_- Alguns tipos de Joins e transações multi-linha não estão presentes no MongoDB, características de Banco de Dados Relacionais.
 
-  ### Onde usar o MongoDB
+  #### Onde usar o MongoDB
   - Big Data;
   - Gestão de conteúdo;
   - Infraestrutura Social e Mobile
